@@ -1,2 +1,3 @@
-# vbta
-Variational learning across domains with triplet information (with Oleg Bakhteev and Alexandr Ogaltsov) - paper accepted at Relational Representation Learning NIPS 2018 Workshop
+# Variational learning across domains with triplet information
+Paper accepted at Relational Representation Learning NIPS 2018 Workshop and Visually Grounded Interaction and Language (ViGIL)
+NIPS 2018 Workshop
